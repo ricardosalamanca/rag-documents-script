@@ -141,10 +141,6 @@ Los códigos de texto y subcódigo de texto se utilizan para estadísticas de li
 - 1 - 3 REINTEGRO SINIESTROS
 - 1 - 4 RECOBROS DE SINIESTROS
 
-# 2. Modelo de datos
-
-![Untitled](Untitled.png)
-
 ## Estructura de tablas
 
 - SIM_CARGA_CONTROL_PROCESO - Tabla de control para registrar la ejecución de la interfaz.
