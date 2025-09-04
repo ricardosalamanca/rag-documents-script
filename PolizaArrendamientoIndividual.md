@@ -1,7 +1,6 @@
 # Poliza de Arrendamiento Individual
 
 Identificación del producto:
-
 - COD_CIA: 3
 - COD_SECC: 37
 - COD_RAMO: 486
