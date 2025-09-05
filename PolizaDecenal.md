@@ -251,3 +251,5 @@ AND a.num_secu_pol = [NUMERO_POLIZA_DECENAL];
 3. **Logging Detallado**: Registro completo de operaciones para auditoría
 4. **Validaciones de Negocio**: Múltiples validaciones según reglas del negocio decenal
 
+
+
