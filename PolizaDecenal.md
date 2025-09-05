@@ -253,3 +253,15 @@ AND a.num_secu_pol = [NUMERO_POLIZA_DECENAL];
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
